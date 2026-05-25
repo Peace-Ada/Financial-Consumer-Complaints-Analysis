@@ -145,7 +145,7 @@ were still not satisfied. The specific pain points
 are billing disputes (3,203 cases) and APR/interest 
 rate issues (1,704 cases).
 
-![Complaints by product chart — attach your image here]
+![Complaints by product chart](images/complaint1.png)
 
 **Key Takeaway:**
 The problem is not the product itself — it is 
