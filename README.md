@@ -163,7 +163,7 @@ with the most active financial product users. Within
 each of these states, credit cards rank #1 and 
 mortgages rank #2 in California and New York specifically.
 
-![Complaints by state map — attach your image here]
+![Complaints by state map](images/complaint2.png)
 
 **Key Takeaway:**
 Support capacity allocated to these states does not 
@@ -184,7 +184,7 @@ account (291 delays), deposits and withdrawals (267),
 and low funds issues (125). Every case is being 
 treated from scratch.
 
-![Delay analysis chart — attach your image here]
+![Delay analysis chart](images/complaint3.png)
 
 **Key Takeaway:**
 Building structured resolution workflows for these 
@@ -203,7 +203,7 @@ a closed with explanation response — which means
 the explanations themselves are not meeting the 
 standard required to fully resolve the complaint.
 
-![Response type breakdown — attach your image here]
+![Response type breakdown](images/complaint4.png)
 
 **Key Takeaway:**
 Improving explanation quality and response templates 
@@ -251,9 +251,9 @@ breakdowns. Dashboard 2 focuses on operational
 performance including response delays, dispute rates 
 and intake channel analysis.
 
-![Dashboard 1 — Complaint Trends and Overview — attach your image here]
+![Dashboard 1 — Complaint Trends and Overview](images/complaint-dashboard1.png)
 
-![Dashboard 2 — Operational Performance and Response Analysis — attach your image here]
+![Dashboard 2 — Operational Performance and Response Analysis](images/complaint-dashboard1.png)
 
 ---
 
@@ -283,4 +283,4 @@ Thank you for reading!
 
 Let's connect:
 [LinkedIn](https://www.linkedin.com/in/peace-ada-95b341341)  
-[Portfolio](https://peace-ada.github.io/Data-Portfolio/)
+[Email](peaceada100a@gmail.com)
