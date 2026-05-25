@@ -163,7 +163,7 @@ with the most active financial product users. Within
 each of these states, credit cards rank #1 and 
 mortgages rank #2 in California and New York specifically.
 
-![Complaints by state map](images/complaint2.png)
+![Complaints by state map](images/complaint b.png)
 
 **Key Takeaway:**
 Support capacity allocated to these states does not 
