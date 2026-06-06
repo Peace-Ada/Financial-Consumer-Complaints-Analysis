@@ -9,6 +9,7 @@
 - [Data Cleaning & Preparation](#data-cleaning--preparation)
 - [Skills Demonstrated](#skills-demonstrated)
 - [Insights](#insights)
+- [KPI Overview](#kpi-overview)
 - [Recommendations](#recommendations)
 - [Dashboard](#dashboard)
 - [Conclusion](#conclusion)
