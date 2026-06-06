@@ -78,7 +78,7 @@ IDs as codes not readable names  which meant the
 Products and Issues sheets needed to be joined before
 analysis could begin.
 
-![Raw dataset showing 3 separate sheets](./images/complaint_raw_data.png)
+![Raw dataset showing 3 separate sheets](../images/complaint_raw_data.png)
 
 ---
 
