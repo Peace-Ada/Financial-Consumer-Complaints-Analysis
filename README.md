@@ -61,61 +61,76 @@ Key questions answered include:
 
 ---
 
+
 ## Data Cleaning & Preparation
 ---
-Before analysis could begin, the dataset required 
-significant preparation to ensure accuracy and consistency.
+The dataset came as 3 separate sheets - Complaints,
+Products and Issues. Before any analysis could begin,
+these had to be merged and cleaned into one reliable
+working table.
 
-**Step 1 — Imported and inspected the dataset**
+**Step 1 — Inspected the raw dataset**
 
-Loaded the raw CSV file into Excel and performed an 
-initial inspection to understand the structure, 
-identify blank fields, and assess data quality.
+Loaded and reviewed all 3 sheets to understand the
+structure and identify relationships between tables.
+The Complaints sheet contained Product IDs and Issue
+IDs as codes not readable names  which meant the
+Products and Issues sheets needed to be joined before
+analysis could begin.
 
-![Raw dataset import — attach your image here]
+![Raw dataset showing 3 separate sheets](images/complaint_raw_data.png)
 
-**Step 2 — Handled missing values**
+---
 
-Several columns contained blank entries — particularly 
-in the Consumer Complaint Narrative and Sub-issue fields. 
-These were assessed and handled appropriately depending 
-on whether the column was needed for analysis.
+**Step 2 — Merged 3 sheets using XLOOKUP**
 
-![Missing values check — attach your image here]
+Used XLOOKUP to pull Product Names, Sub Products,
+Issue Names and Sub Issues from the Products and
+Issues sheets directly into the Complaints sheet
+creating one unified readable table.
 
-**Step 3 — Standardised date columns**
+Formula used:
+![XLOOKUP formula merging sheets](images/complaint_xlookup_formula_.png)
 
-The Date Received and Date Sent to Company columns were 
-reformatted to a consistent date format to enable 
-time-based analysis including year-over-year comparisons 
-and monthly trend calculations.
+![Merged table — all 3 sheets combined](images/complaint_merged_tables.png)
 
-![Date formatting — attach your image here]
+---
+
+**Step 3 — Handled missing values and blanks**
+
+Several columns contained blank entries particularly
+in Tags, Consumer Consent Provided and Company Public
+Response fields. Each blank was assessed based on
+whether the column was required for analysis.
+
+![Missing values identified across key columns](images/complaint_missing_valuesblanks.png)
+
+---
 
 **Step 4 — Created calculated columns**
 
 New columns were created to support deeper analysis:
-- **Year** — extracted from Date Received for 
+- **Complaint Intake Lag (Days)** — calculated as
+  the difference between Date Submitted and Date
+  Received to measure how long each complaint took
+  to enter the system
+- **Year** — extracted from Date Received for
   year-over-year trend analysis
-- **Month** — extracted for seasonal pattern analysis
-- **Days to Response** — calculated as the difference 
-  between Date Received and Date Sent to Company to 
-  identify response delays
-- **Timely Response Flag** — categorised responses 
-  as timely or untimely based on the Timely Response column
 
-![Calculated columns — attach your image here]
-
-**Step 5 — Validated and cleaned categorical fields**
-
-Product, State, Submitted Via, and Company Response 
-columns were checked for inconsistencies, extra spaces, 
-and formatting errors. All values were standardised 
-for accurate grouping in Pivot Tables.
-
-![Data validation — attach your image here]
+Formula used:
+![Calculated columns — Intake Lag and Year](images/complaint_calculated_column.png)
 
 ---
+
+**Step 5 — Built Pivot Tables for analysis**
+
+Created multiple Pivot Tables to answer specific
+business questions including submission channel
+impact on intake speed and response strategy
+effectiveness in preventing disputes.
+
+![Pivot tables — channel lag and response effectiveness](images/complaint_pivot_tables.png)
+
 
 ## Skills Demonstrated
 ---
