@@ -142,6 +142,25 @@ effectiveness in preventing disputes.
 - Interactive Dashboard Design with Slicers
 - Data Storytelling and Business Recommendation Writing
 - Time-Series and Trend Analysis
+---
+
+## KPI Overview
+---
+
+| Metric | Value |
+|--------|-------|
+| Total Complaints | 75,513 |
+| Period Covered | Dec 2011 – Oct 2020 |
+| Total Disputes Filed | 7,363 |
+| Overall Dispute Rate | 10% |
+| Untimely Response Rate | 2% |
+| Untimely Responses Count | 1,469 |
+| Top Complaint Product | Credit Card (25.4%) |
+| Top State by Volume | California (12,107) |
+| Top 4 States Share | 41% of all complaints |
+| Avg Email Intake Lag | 6.0 days |
+| Avg Web Intake Lag | 1.3 days |
+| Closed with Explanation Rate | 64.81% |
 
 ---
 
