@@ -268,7 +268,7 @@ and intake channel analysis.
 
 ![Dashboard 1 — Complaint Trends and Overview](images/complaint-dashboard1.png)
 
-![Dashboard 2 — Operational Performance and Response Analysis](images/complaint-dashboard1.png)
+![Dashboard 2 — Operational Performance and Response Analysis](images/complaint-dashboard2.png)
 
 ---
 
@@ -298,4 +298,4 @@ Thank you for reading!
 
 Let's connect:
 [LinkedIn](https://www.linkedin.com/in/peace-ada-95b341341)  
-[Email](peaceada100a@gmail.com)
+[Email](mailto:peaceada100@gmail.com)
