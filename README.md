@@ -90,7 +90,7 @@ Issues sheets directly into the Complaints sheet
 creating one unified readable table.
 
 Formula used:
-![XLOOKUP formula merging sheets](images/complaint_xlookup_formula_.png)
+![XLOOKUP formula merging sheets](images/complaint_xlookup_formula.png)
 
 ![Merged table — all 3 sheets combined](images/complaint_merged_tables.png)
 
