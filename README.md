@@ -154,7 +154,7 @@ effectiveness in preventing disputes.
 
 The KPI cards show the following:
 
-- **Total Complaints:** 75,513  
+- Total Complaints: 75,513  
 - **Top Complaint Product:** Credit Card *(19,176 | 25.4% of total complaints)*  
 - **Average Monthly Complaints:** 6,293  
 - **On-Time Response Rate:** 98%  
