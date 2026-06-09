@@ -152,26 +152,20 @@ effectiveness in preventing disputes.
 
 ![KPIs 2](images/complaintkpi2.png)
 
+The KPI cards show the following:
 
+- **Total Complaints:** 75,513  
+- **Top Complaint Product:** Credit Card *(19,176 | 25.4% of total complaints)*  
+- **Average Monthly Complaints:** 6,293  
+- **On-Time Response Rate:** 98%  
+- **Total Disputes Filed:** 7,363 *(10% dispute rate)*  
 
-| Metric | Value |
-|--------|-------|
-| Total Complaints | 75,513 |
-| Period Covered | Dec 2011 – Oct 2020 |
-| Total Disputes Filed | 7,363 |
-| Overall Dispute Rate | 10% |
-| Untimely Response Rate | 2% |
-| Untimely Responses Count | 1,469 |
-| Top Complaint Product | Credit Card (25.4%) |
-| Top State by Volume | California (12,107) |
-| Top 4 States Share | 41% of all complaints |
-| Avg Email Intake Lag | 6.0 days |
-| Avg Web Intake Lag | 1.3 days |
-| Closed with Explanation Rate | 64.81% |
+Complaint volume **decreased by 4% in 2020 compared to 2019**
 
----
+ ---
 
 ## Insights
+
 ---
 
 ### Insight 1 — Credit cards drive 25.4% of all complaints and 50% of all disputes
