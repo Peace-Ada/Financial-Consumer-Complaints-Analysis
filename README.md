@@ -44,8 +44,6 @@ Key questions answered include:
   Consumer complaint narrative, Company response, State, 
   Submitted via, Date received, Date sent to company
 
-![Dataset preview — attach your image here]
-
 ---
 
 ## Tools Used
