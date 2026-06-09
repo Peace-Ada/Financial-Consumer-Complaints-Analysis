@@ -148,6 +148,12 @@ effectiveness in preventing disputes.
 ## KPI Overview
 ---
 
+![KPIs 1](images/complaintkpi1.png)
+
+![KPIs 2](images/complaintkpi2.png)
+
+
+
 | Metric | Value |
 |--------|-------|
 | Total Complaints | 75,513 |
