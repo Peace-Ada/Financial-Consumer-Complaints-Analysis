@@ -18,12 +18,12 @@
 
 ## Analysis Overview
 ---
-Financial institutions receive thousands of consumer complaints every year — 
+Financial institutions receive thousands of consumer complaints every year 
 but without proper analysis, these complaints are just noise. This project 
 analyses 75,513 consumer complaints submitted to the CFPB (Consumer Financial 
 Protection Bureau) between December 2011 and October 2020 to uncover which 
 products, states, and processes were generating the most pressure on support 
-teams — and why.
+teams and why.
 
 Key questions answered include:
 - Which financial products generate the most complaints?
@@ -182,7 +182,7 @@ rate issues (1,704 cases).
 ![Complaints by product chart](images/complaint1.png)
 
 **Key Takeaway:**
-The problem is not the product itself — it is 
+The problem is not the product itself, it is 
 specifically how billing disputes and interest rate 
 issues are being handled and communicated to customers.
 
@@ -279,7 +279,7 @@ additional cost.
 
 ## Dashboard
 ---
-Two interactive dashboards were built in Excel — 
+Two interactive dashboards were built in Excel. 
 Dashboard 1 covers complaint trends and product/state 
 breakdowns. Dashboard 2 focuses on operational 
 performance including response delays, dispute rates 
@@ -294,7 +294,7 @@ and intake channel analysis.
 ## Conclusion
 ---
 This analysis of 75,513 financial consumer complaints 
-reveals that the problem is not random — it is 
+reveals that the problem is not random, it is 
 concentrated, predictable and fixable. Credit cards 
 are the dominant complaint driver. Four states 
 generate nearly half of all national complaints. 
@@ -305,7 +305,7 @@ quality is inconsistent.
 The recommendations provided give financial 
 institutions a clear, structured path to reducing 
 complaint volumes, improving response times and 
-cutting dispute rates — all without requiring 
+cutting dispute rates all without requiring 
 significant new investment.
 
 Data does not lie. It just needs someone willing 
