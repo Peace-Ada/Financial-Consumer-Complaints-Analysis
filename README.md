@@ -40,6 +40,9 @@ Key questions answered include:
 - **Source:** Kaggle
 - **Size:** 75,513 records
 - **Period:** December 2011 – October 2020
+- **Structure:** 3 separate sheets — Complaints, 
+  Products and Issues — merged into one unified 
+  table using XLOOKUP
 - **Fields include:** Product, Sub-product, Issue, Sub-issue, 
   Consumer complaint narrative, Company response, State, 
   Submitted via, Date received, Date sent to company
